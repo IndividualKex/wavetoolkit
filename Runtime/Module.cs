@@ -1,7 +1,7 @@
 using UnityEngine;
 
 namespace WaveTools {
-    [CreateAssetMenu(menuName = "Wave/Module")]
+    [CreateAssetMenu(menuName = "Wave Toolkit/Module")]
     public class Module : ScriptableObject {
         public GameObject prefab;
         public Connection down;

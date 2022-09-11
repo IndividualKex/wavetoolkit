@@ -1,0 +1,15 @@
+{
+  "name": "com.individualkex.wavetools",
+  "version": "0.1.0",
+  "displayName": "Wave Tools",
+  "description": "Basic wave function collapse tools.",
+  "unity": "2020.3",
+  "documentationUrl": "https://github.com/IndividualKex/WaveTools",
+  "changelogUrl": "https://github.com/IndividualKex/WaveTools",
+  "licensesUrl": "https://github.com/IndividualKex/WaveTools",
+  "author": {
+    "name": "IndividualKex",
+    "email": "individualkex@gmail.com",
+    "url": "https://linktr.ee/individualkex"
+  }
+}

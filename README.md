@@ -17,4 +17,4 @@ This Unity package provides a simple, flexible implementation of the Wave Functi
 - Create a gameobject and add a `Generator` component
 - In the `Generator` inspector, click `Add Grid` to add a wave grid
 - Add your modules to the `Modules` field
-- Click `Generate`, or from script, call `Generator.instance.Generate()`, to generate your grids
+- Click `Generate` to generate your grids
